@@ -16,7 +16,3 @@ namespace Admin.Clases
         }
 
        
-
-        private decimal _CostoTarifaDAC;
-    }
-}
